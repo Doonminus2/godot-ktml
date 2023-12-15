@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf5ekk63nn62c"
-path="res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"
+uid="uid://dqjcxd156swbt"
+path="res://.godot/imported/player crouch-walk 48x48.png-c46d51c3633141d62d3bafaf72389d38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bullet-removebg-preview.png"
-dest_files=["res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"]
+source_file="res://animate/player crouch-walk 48x48.png"
+dest_files=["res://.godot/imported/player crouch-walk 48x48.png-c46d51c3633141d62d3bafaf72389d38.ctex"]
 
 [params]
 

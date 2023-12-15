@@ -14,7 +14,7 @@ func _ready():
 	bulletSprite = get_node("bullet2d") 
 	get_node("CollisionShape2D").disabled = false
 	pass
-	
+
 func _process(delta):
 	if bulletDirection == -1:
 		bulletSprite.set_flip_h(true)
@@ -22,16 +22,9 @@ func _process(delta):
 	else:
 		bulletSprite.set_flip_h(false)
 		translate(Vector2(5,0))
-		
+
 		fire_rate += delta
 		if fire_rate >= next_fire:
 			fire_rate =0.0
 			isAttackpressed = false
-			
-		pass 
-		
-		
-		
-		
-		
-	
+			pass

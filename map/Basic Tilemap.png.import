@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf5ekk63nn62c"
-path="res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"
+uid="uid://ejl6smty5nho"
+path="res://.godot/imported/Basic Tilemap.png-04a2654806df09e3a8d97c2f17b23f3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bullet-removebg-preview.png"
-dest_files=["res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"]
+source_file="res://map/Basic Tilemap.png"
+dest_files=["res://.godot/imported/Basic Tilemap.png-04a2654806df09e3a8d97c2f17b23f3e.ctex"]
 
 [params]
 

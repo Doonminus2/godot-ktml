@@ -1,6 +1,6 @@
-extends Node
+extends Node2D
 
-var global_direction =0
+var global_direction = 0
 func _ready():
 	set_process(true)
-	pass 
+	pass

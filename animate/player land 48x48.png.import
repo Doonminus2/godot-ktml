@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnww6ljbksrrm"
-path="res://.godot/imported/Character Idle 48x48.png-9e25d2b8b025189fdc7e48a59714ae63.ctex"
+uid="uid://dl5oqo6c0mbbr"
+path="res://.godot/imported/player land 48x48.png-4655a29a70b5a14fe2f33d3c38de7c62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Character Idle 48x48.png"
-dest_files=["res://.godot/imported/Character Idle 48x48.png-9e25d2b8b025189fdc7e48a59714ae63.ctex"]
+source_file="res://animate/player land 48x48.png"
+dest_files=["res://.godot/imported/player land 48x48.png-4655a29a70b5a14fe2f33d3c38de7c62.ctex"]
 
 [params]
 

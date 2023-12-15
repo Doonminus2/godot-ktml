@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf5ekk63nn62c"
-path="res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"
+uid="uid://bgrjoq2jkb1iq"
+path="res://.godot/imported/wall land 48x48.png-210e462b73fdd6e535f9f90de1aca9bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bullet-removebg-preview.png"
-dest_files=["res://.godot/imported/bullet-removebg-preview.png-a4cb62cc0c65d2ea019e779f4ae58476.ctex"]
+source_file="res://animate/wall land 48x48.png"
+dest_files=["res://.godot/imported/wall land 48x48.png-210e462b73fdd6e535f9f90de1aca9bc.ctex"]
 
 [params]
 

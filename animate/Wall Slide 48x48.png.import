@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2difvgg1jbrm"
-path="res://.godot/imported/PlayerWalk 48x48.png-570a3beb35c7edd6054a369f581b9a16.ctex"
+uid="uid://bmvy420dinsgj"
+path="res://.godot/imported/Wall Slide 48x48.png-42384fb99d242fbceeff8251c2bc3b01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PlayerWalk 48x48.png"
-dest_files=["res://.godot/imported/PlayerWalk 48x48.png-570a3beb35c7edd6054a369f581b9a16.ctex"]
+source_file="res://animate/Wall Slide 48x48.png"
+dest_files=["res://.godot/imported/Wall Slide 48x48.png-42384fb99d242fbceeff8251c2bc3b01.ctex"]
 
 [params]
 

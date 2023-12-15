@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://df0kl7f2vm5b1"
-path="res://.godot/imported/dongeonWallFloorTransparent9.png-6527d0fe767ee998154bd995361f6c2b.ctex"
+uid="uid://i1jpwlrea1an"
+path="res://.godot/imported/run cycle 48x48.png-2bcfeecb5aa5f0f1466306f1412e9ecb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://dongeonWallFloorTransparent9.png"
-dest_files=["res://.godot/imported/dongeonWallFloorTransparent9.png-6527d0fe767ee998154bd995361f6c2b.ctex"]
+source_file="res://animate/run cycle 48x48.png"
+dest_files=["res://.godot/imported/run cycle 48x48.png-2bcfeecb5aa5f0f1466306f1412e9ecb.ctex"]
 
 [params]
 
